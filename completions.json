@@ -1916,7 +1916,7 @@
     "xml:lang": {},
     "xmlns": {},
     "&": {
-      "attributes": [
+      "entities": [
         "&#33",
         "&#35",
         "&#36",
